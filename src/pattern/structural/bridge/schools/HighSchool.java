@@ -1,4 +1,3 @@
-
 package pattern.structural.bridge.schools;
 
 public class HighSchool extends School {
